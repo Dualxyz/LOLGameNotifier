@@ -35,6 +35,6 @@ api_key = "RGAPI-39023e20-f474-4f13-898c-338956e77e94"
 ## To-do list:
 - Add multi user search.
 - Make the result output on discord prettier.
-- Add the division of all the names.
+- Add the division of all the players in the game.
 - Add a recently played with section.
 - Clean the code a little bit - but this is enough for the initial version. 
