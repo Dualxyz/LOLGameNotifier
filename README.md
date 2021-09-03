@@ -30,7 +30,7 @@ api_key = "RGAPI-39023e20-f474-4f13-898c-338956e77e94"
 
 ## Features:
 - Automatically checks every 5 minutes whether the person has entered.
-- Displays the igns of all players.
+- Displays the igns of all players in the current match.
 
 ## To-do list:
 - Add multi user search.
